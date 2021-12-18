@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/datbadwolf97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="datbadwolf97" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/irfan togashi - dixon firewolf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="irfan togashi - dixon firewolf" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCPCJFHDHvnU_R7GZJOlSeQg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="irfan togashi - dixon firewolf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
