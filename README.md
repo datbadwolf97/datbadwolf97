@@ -31,9 +31,9 @@ datbadwolf97#5523
 5. **Stayin' alive.**
 ## Programs and tools.
 [Google Keyboard.](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)<br\>
-[Termux.](https://github.com/termux/termux-app)<br\>
-[NANO.](https://www.nano-editor.org/)<br/>
+[Termux.](https://github.com/termux/termux-app)<br>
+[NANO.](https://www.nano-editor.org/)<br>
 [Proot](https://github.com/termux/proot) and [Proot-distro](https://github.com/termux/proot-distro).<br/>
-[FiSH](https://fishshell.com/).<br/>
+[FiSH](https://fishshell.com/).<br>
 ## The end.
 **Irfan Togashi - Dixon Firewolf**
