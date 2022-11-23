@@ -17,6 +17,9 @@ Discord profile :
 datbadwolf97#5523
 ```
 [Youtube.](https://youtube.com/channel/UCPCJFHDHvnU_R7GZJOlSeQg)
+
+## Donate Me.
+Currently on [Trakteer.](http://trakteer.id/redwolf7)
 # Equipments and perks.
 1. [Samsung Galaxy A03.](https://www.gsmarena.com/samsung_galaxy_a03-11244.php)
 2. [Lenovo Thinkpad L540](https://www.lenovo.com/ph/en/commercial-notebook/thinkpad/thinkpad-l-series/L540/p/22TP2TBL540)
