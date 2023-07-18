@@ -23,13 +23,13 @@ Currently on [Trakteer.](http://trakteer.id/redwolf7)
 # Equipments and perks.
 1. [Samsung Galaxy A03.](https://www.gsmarena.com/samsung_galaxy_a03-11244.php)
 2. [Lenovo Thinkpad L540](https://www.lenovo.com/ph/en/commercial-notebook/thinkpad/thinkpad-l-series/L540/p/22TP2TBL540)
-3. A cheap yet durable headphone that looks like [this.](https://github.com/datbadwolf97/datbadwolf97/blob/main/Screenshot_20221022-200007_Google.png)
+3. A cheap yet durable headphone that looks like [this] (now it's no longer usable, RIP).(https://github.com/datbadwolf97/datbadwolf97/blob/main/Screenshot_20221022-200007_Google.png)
 4. A phone casing that full of anime stickers.
 5. [Termux](https://github.com/termux/termux-app) of course.
 6. A working and fully functional [brain](https://en.m.wikipedia.org/wiki/Brain).
 ## Future insights.
 1. Learn how to code in Python because C sucks.
-2. EDIT : I AM FINALLY OWNING A LAPTOP, but I've installed Manjaro instead...
+2. EDIT : I AM FINALLY OWNING A LAPTOP, but I've installed Endevaour OS instead...
 3. Creating my own Linux Distro.
 4. Doing some *good deeds* IRL.
 5. **Stayin' alive.**
